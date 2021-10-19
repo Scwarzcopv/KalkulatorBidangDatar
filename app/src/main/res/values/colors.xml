@@ -15,4 +15,7 @@
     <color name="colorGradientStart">#FF2079</color>
     <color name="colorGradientCenter">#440BD4</color>
     <color name="colorGradientEnd">#04005E</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorRipple">#A9A9F5</color>
 </resources>
